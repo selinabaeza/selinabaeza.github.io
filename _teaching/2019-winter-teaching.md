@@ -8,5 +8,7 @@ date: Dec 2019
 location: "Chicago, IL, USA"
 ---
 
-[Example lecture here](http:/selinabaeza.github.io/files/The Vestibular System and Equilibrioception Systems Neuro lecture.pdf)
-Taught section on Vestibular System
+90 undergraduate students. Graded, held office hours, taught section on vestibular system.
+
+[Sample lecture here](http:/selinabaeza.github.io/files/The Vestibular System and Equilibrioception Systems Neuro lecture.pdf)
+
