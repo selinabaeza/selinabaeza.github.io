@@ -1,6 +1,6 @@
 ---
 title: "Voltage-gated ion channels influence firing patterns of vestibular afferents"
-excerpt: "Investigating the role of NaV1.6 currents on regularity<br/><img src='/images/NaV Currents.jpg'>"
+excerpt: "Investigating the role of NaV1.6 currents on spiking regularity<br/><img src='/images/NaV Currents.jpg'>"
 collection: portfolio
 ---
 
