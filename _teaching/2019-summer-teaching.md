@@ -11,3 +11,5 @@ location: "Woods Hole, MA, USA"
 4 week instensive course for advanced researched. Designed and ran workshop to teach patch clamp electrophysiology for vestibular ganglion neurons.
 
 [More info here](https://www.mbl.edu/bie/)
+
+![VGN](/images/VGN.png)
