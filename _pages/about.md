@@ -15,7 +15,7 @@ I'm a PhD Candidate in the Committee on Neurobiology at the University of Chicag
 * what are the key biophysical properties that they need to do so?
 * how is sensory information encoded? 
 
-These are the questions that keep me up at night. That, and what's for breakfast.
+These are the questions that keep me up at night.
 
 **_The vestibular inner ear_**
 
