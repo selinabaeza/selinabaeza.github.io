@@ -1,5 +1,5 @@
 ---
-title: "Systems Neuroscience"
+title: "Teaching assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-winter-teaching
