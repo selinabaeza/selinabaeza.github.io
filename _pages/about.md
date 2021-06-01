@@ -24,4 +24,5 @@ The peripheral vestibular system is a great model for studying fundamental quest
 Cheers.
 
 <br/><img src='/images/inner ear.png'>
+<br/>
 _a fancy, stylized inner ear organ_
