@@ -20,19 +20,19 @@ Education
 Academic Research
 ======
 **University of Chicago**, Advisor: Dr. Ruth Anne Eatock, present
-Department of Neurobiology, Biological Sciences Division
+<br/> Department of Neurobiology, Biological Sciences Division
   * Investigating the contributions of sodium current diversity to action potential waveforms and firing patterns of vestibular afferent neurons
   * Modeling impact of different ionic currents on spike timing regularity using single compartment HH based formulations
 
 **Baylor College of Medicine**, Advisor: Dr. Ramiro Salas, 2013-2016
-Menninger Department of Psychiatry and Behavioral Sciences
+<br/> Menninger Department of Psychiatry and Behavioral Sciences
   * Developed relational analysis using PGMRA web server for psychiatric data and neuroimaging data in patients with major depressive disorder
   * Determined relationship of altered cingulate cortex anatomical connectivity with comorbid major depressive disorder and substance abuse disorder in clinical patients
   * Analyzed anterior cingulate cortex diffusion tensor imaging connectivity in patients with nicotine, cocaine, and alcohol addiction
   * Investigated perceptions regarding e-cigarettes and e-cigarette smoking during pregnancy
 
 **Duke University**, Advisor: Dr. Cynthia Kuhn, Dr. David Walker, 2015
-Duke Institute for Brain Science, Department of Pharmacology and Cancer Biology
+<br/> Duke Institute for Brain Science, Department of Pharmacology and Cancer Biology
   * Chronic ethanol administration desensitizes of adenosine A1 receptors as shown through an altered response to adenosine agonists in sudden darkness locomotor activity in adult rats
   
 Skills
