@@ -4,4 +4,6 @@ excerpt: "How do diverse NaV currents impact excitability? <br/><img src='/image
 collection: portfolio
 ---
 
-Coming soon
+For an explanation of the Hodgkin and Huxley formulation of sodium conductance, see [this sweet and simple summary](/files/Modeling the sodium conductance.pdf)
+
+The rest is coming soon
