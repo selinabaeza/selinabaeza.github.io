@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-***_hi and welcome_***
+***Hi and welcome***
 
 I'm a PhD Candidate in the Committee on Neurobiology at the University of Chicago. I work in the laboratory of [Dr. Ruth Anne Eatock](https://voices.uchicago.edu/eatocklab/). Previously, I completed my BA in Cognitive Sciences and Spanish, with a minor in Neuroscience, at Rice University (go Owls). My primary scientific interest is the neurobiology of sensory transduction and encoding: 
 * how do the properties of sensory receptors mold our perceptual experiences? 
