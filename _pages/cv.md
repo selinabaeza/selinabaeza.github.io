@@ -37,12 +37,13 @@ Academic Research
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Dissection: mouse inner ear
+* Tissue disassociation and cell culture
+* Patch clamp electrophysiology and signal analysis
+  * Voltage clamp
+  * Current clamp
+  * Action potential clamp
+* Conductance-based modeling (MATLAB)
 
 Publications
 ======
@@ -62,6 +63,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Outreach and Activities
 ======
-* Currently signed in to 43 different slack teams
+* Student Representative, Biological Sciences Division Committee on Equitable Admissions, University of Chicago, 2020
+* Steering Committee Member, Neuroscience Early Stage Scientists Training Program, University of Chicago, 2020 - present
+* Board Member, [UChicagoGRAD Diversity Advisory Board](https://voices.uchicago.edu/uchicagograd/2019/10/17/meet-the-uchicagograd-diversity-advisory-board-dab/) (DAB), University of Chicago, 2017- 2020
+* Admissions Committee, UChicago Committee in Neurobiology and Computational Neuroscience, 2017-2018
+* Director of Recruitment, [Graduate Recruitment Initiative Team](https://voices.uchicago.edu/grit/) (GRIT), University of Chicago, 2017 – 2018
+* Executive Team Member, Society for the Advancement of Chicanos
