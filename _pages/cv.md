@@ -38,7 +38,7 @@ Academic Research
 Skills
 ======
 * Dissection: mouse inner ear
-* Tissue disassociation and cell culture
+* Tissue dissociation and cell culture
 * Patch clamp electrophysiology and signal analysis
   * Voltage clamp
   * Current clamp
