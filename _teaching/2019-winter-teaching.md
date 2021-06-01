@@ -8,6 +8,5 @@ date: Dec 2019
 location: "Chicago, IL, USA"
 ---
 
-Graded, held office hours, and taught section on Vestibular System
-
 [Example lecture here](http:/selinabaeza.github.io/files/The Vestibular System and Equilibrioception Systems Neuro lecture.pdf)
+Taught section on Vestibular System
