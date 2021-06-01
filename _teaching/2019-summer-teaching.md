@@ -1,5 +1,5 @@
 ---
-title: "Assistant instructor"
+title: "Biology of the Inner Ear"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2019-summer-teaching
