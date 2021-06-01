@@ -3,10 +3,10 @@ title: "Perceptions about e-cigarette safety may lead to e-smoking during pregna
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: Sept 2014
 venue: 'Bulletin of the Menninger Clinic '
 paperurl: 'http://selinabaeza.github.io/files/Baeza Loya et al 2014.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Baeza-Loya, S. et al (2014). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
