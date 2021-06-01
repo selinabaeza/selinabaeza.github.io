@@ -14,3 +14,5 @@ I am a PhD Candidate in the Commitee on Neurobiology at the University of Chicag
 
 Thanks for your patience as I find the time to populate this site. Saludos.
 
+[inner ear](images/inner ear.png)
+
