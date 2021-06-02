@@ -1,6 +1,6 @@
 ---
 title: "Voltage-gated sodium currents influence firing patterns of vestibular afferents"
-excerpt: "Investigating the role of NaV1.6 on spiking regularity<br/><img src='/images/NaV Currents.jpg'>"
+excerpt: "What is the role of NaV1.6 on spiking regularity?<br/><img src='/images/NaV Currents.jpg'>"
 collection: portfolio
 ---
 
