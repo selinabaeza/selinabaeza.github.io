@@ -14,12 +14,9 @@ Sodium currents are notoriously difficult to record in vitro. They are fast, lar
 
 <br/><img src='/images/modelings eqs.png'><br/>
 
-Using data from our electrophysiology as parameters, we can use these to reproduce the kinetics and voltage dependence of all three current components.
+Using data from our electrophysiology as parameters, we can use these to reproduce the kinetics and voltage dependence of all three current components. With these additions, we have been investigating the influences that each individual current component has on step-evoked firing and EPSC-evoked firing. We are testing the impact on current threshold, firing threshold, spike latency, and response range - all of which are measures of excitability. Stay tuned. 
 
-<br/><img src='/images/Manuscript_fig_1D.png'>
-
-With these additions, we have been in
-
+<br/><img src='/images/Manuscript_fig_1D.png'><br/>
 
 
 ****Literature Cited****
