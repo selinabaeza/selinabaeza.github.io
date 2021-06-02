@@ -1,6 +1,6 @@
 ---
 title: "Voltage-gated sodium currents influence firing patterns of vestibular afferents"
-excerpt: "What is the role of NaV1.6 on spiking regularity?<br/><img src='/images/NaV Currents.jpg'>"
+excerpt: "Recording transient, persistent, and resurgent currents in VGN<br/><img src='/images/NaV Currents.jpg'>"
 collection: portfolio
 ---
 
