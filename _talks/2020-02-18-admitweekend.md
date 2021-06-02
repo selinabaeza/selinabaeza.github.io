@@ -2,7 +2,7 @@
 title: "Sodium current diversity and sensory encoding in the vestibular afferent neurons"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2020-02-18-admitweekend
 venue: "Neuroscience Graduate Program Admissions Weekend, Department of Neurobiology"
 date: 2020-02-18
 location: "Chicago, IL"
