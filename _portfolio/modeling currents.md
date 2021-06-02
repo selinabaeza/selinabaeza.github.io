@@ -1,6 +1,6 @@
 ---
 title: "Simulating vestibular afferent firing using a conductance-based model"
-excerpt: "Investigating impact of diverse sodium currents on excitability? <br/><img src='/images/HHmodel.png'>"
+excerpt: "Investigating impact of diverse sodium currents on excitability <br/><img src='/images/HHmodel.png'>"
 collection: portfolio
 ---
 
