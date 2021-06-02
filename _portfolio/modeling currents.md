@@ -6,11 +6,11 @@ collection: portfolio
 
 For an explanation of the Hodgkin and Huxley formulation of sodium conductance, see [this sweet and simple summary](/files/Modeling the sodium conductance.pdf)
 
-The rest is coming soon. Here are some pretty pictures in the meantime.
+Hight and Kalluri (2016) published a conductance-based model of VGN firing, which was later expanded in Ventura and Kalluri (2019) to include hyperpolarization-activated cyclic nucleotide–gated (HCN) currents. They observed that VGN firing could be modulated through the low-voltage activated potassium currents (IKL). These have proved key in driving irregularity in spiking. By balancing sodium currents (INa) with IKL, they could reproduce all the VGN firing patterns and spiking seen in vivo.
 
-Sodium currents are notoriously difficult to record in vitro. They are fast, large, and get obscured by high- and low-voltage activated potassium currents. On top of that, there is no way to pharmacologically isolate transient currents from persistent and resurgent ones. Most of our recording conditions, where we can record pure sodium currents, are extremely restricted. In conditions where we can record spiking, we cannot determine the impact of different current components in vitro. Therefore, we turned to computational methods to investigate the specific roles of these diverse currents. 
+<br/><img src='/images/Model spiking.png'>
 
-Hight and Kalluri (2016) published a conductance-based model of VGN firing, which was later expanded in Ventura and Kalluri (2019) to include hyperpolarization-activated cyclic nucleotide–gated (HCN) currents. They observed that VGN firing could be modulated through the low-voltage activated potassium currents (IKL). These have proved key in driving irregularity in spiking. By balancing sodium currents (INa) with IKL, they could reproduce all the VGN firing patterns and spiking seen in vivo. We have added to this model (thanks for the code Radha!) and expanded to include resurgent and persistent sodium current components, using pseudo-HH formulation as was developed by Venugopal et al., 2018. 
+Sodium currents are notoriously difficult to record in vitro. They are fast, large, and get obscured by high- and low-voltage activated potassium currents. On top of that, there is no way to pharmacologically isolate transient currents from persistent and resurgent ones. Most of our recording conditions, where we can record pure sodium currents, are extremely restricted. In conditions where we can record spiking, we cannot determine the impact of different current components in vitro. Therefore, we turned to computational methods to investigate the specific roles of these diverse currents. We have added to the VGN model (thanks for the original code base Radha!) and expanded to include resurgent and persistent sodium current components, using pseudo-HH formulation as was developed by Venugopal et al., 2018.
 
 <br/><img src='/images/modelings eqs.png'><br/>
 
@@ -18,7 +18,9 @@ Using data from our electrophysiology as parameters, we can use these to reprodu
 
 <br/><img src='/images/Manuscript_fig_1D.png'>
 
-<br/><img src='/images/Model spiking.png'>
+With these additions, we have been in
+
+
 
 ****Literature Cited****
 
