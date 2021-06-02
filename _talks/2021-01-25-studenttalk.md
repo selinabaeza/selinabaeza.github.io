@@ -1,10 +1,10 @@
 ---
-title: "Sodium current diversity and sensory encoding in the vestibular afferent neurons"
+title: "How does sodium current diversity influence vestibular afferent firing?"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-02-10-studenttalk
+permalink: /talks/2021-01-25-studenttalk
 venue: "Senior Student Talk, Department of Neurobiology"
-date: 2021-02-10
+date: 2021-01-25
 location: "Chicago, IL"
 ---
 
