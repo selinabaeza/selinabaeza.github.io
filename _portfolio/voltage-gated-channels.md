@@ -19,7 +19,7 @@ TTX-sensitive NaV currents through a given NaV1.x channel can also take differen
 <br/><img src='/images/NaV Currents.jpg'>
 
 <br/>
-**Literature Cited**<br/>
+****Literature Cited****<br/>
 - Horwitz GC, Risner-Janiczek JR, and Holt JR. Mechanotransduction and hyperpolarization-activated currents contribute to spontaneous activity in mouse vestibular ganglion neurons. J Gen Physiol 143: 481-497, 2014. <br/>
 - Iwasaki S, Chihara Y, Komuta Y, Ito K, and Sahara Y. Low-voltage-activated potassium channels underlie the regulation of intrinsic firing properties of rat vestibular ganglion cells. J Neurophysiol 100: 2192-2204, 2008. <br/>
 - Jamali M, Chacron MJ, and Cullen KE. Self-motion evokes precise spike timing in the primate vestibular system. Nat Commun 7: 13229, 2016. <br/>
