@@ -18,7 +18,6 @@ Using data from our electrophysiology as parameters, we can use these to reprodu
 
 <br/><img src='/images/Manuscript_fig_1D.png'><br/>
 
-
 ****Literature Cited****
 
 - Hight AE, Kalluri R. A biophysical model examining the role of low-voltage-activated potassium currents in shaping the responses of vestibular ganglion neurons. Journal of Neurophysiology 116: 503–521, 2016.
