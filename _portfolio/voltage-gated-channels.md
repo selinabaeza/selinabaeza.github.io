@@ -20,11 +20,11 @@ TTX-sensitive NaV currents through a given NaV1.x channel can also take differen
 
 <br/>
 **Literature Cited**
-* Horwitz GC, Risner-Janiczek JR, and Holt JR. Mechanotransduction and hyperpolarization-activated currents contribute to spontaneous activity in mouse vestibular ganglion neurons. J Gen Physiol 143: 481-497, 2014.
-* Iwasaki S, Chihara Y, Komuta Y, Ito K, and Sahara Y. Low-voltage-activated potassium channels underlie the regulation of intrinsic firing properties of rat vestibular ganglion cells. J Neurophysiol 100: 2192-2204, 2008.
-* Jamali M, Chacron MJ, and Cullen KE. Self-motion evokes precise spike timing in the primate vestibular system. Nat Commun 7: 13229, 2016.
-* Kalluri R, Xue J, and Eatock RA. Ion channels set spike timing regularity of mammalian vestibular afferent neurons. J Neurophysiol 104:2034-51, 2010.
-* Liu XP, Wooltorton JR, Gaboyard-Niay S, Yang FC, Lysakowski A, and Eatock RA. Sodium channel diversity in the vestibular ganglion: NaV1.5, NaV1.8, and tetrodotoxin-sensitive currents. J Neurophysiol 115: 2536-2555, 2016.
-* Lysakowski A, Gaboyard-Niay S, Calin-Jageman I, Chatlani S, Price SD, and Eatock RA. Molecular microdomains in a sensory terminal, the vestibular calyx ending. J Neurosci 31: 10101-14, 2011.
-* Smith CE, and Goldberg JM. A stochastic afterhyperpolarization model of repetitive activity in vestibular afferents. Biol Cybern 54: 41-51, 1986.
-* Ventura CM, and Kalluri R. Enhanced activation of HCN channels reduces excitability and spike-timing regularity in maturing vestibular afferent neurons. J Neurosci 39: 2860-76, 2019.
+- Horwitz GC, Risner-Janiczek JR, and Holt JR. Mechanotransduction and hyperpolarization-activated currents contribute to spontaneous activity in mouse vestibular ganglion neurons. J Gen Physiol 143: 481-497, 2014.
+- Iwasaki S, Chihara Y, Komuta Y, Ito K, and Sahara Y. Low-voltage-activated potassium channels underlie the regulation of intrinsic firing properties of rat vestibular ganglion cells. J Neurophysiol 100: 2192-2204, 2008.
+- Jamali M, Chacron MJ, and Cullen KE. Self-motion evokes precise spike timing in the primate vestibular system. Nat Commun 7: 13229, 2016.
+- Kalluri R, Xue J, and Eatock RA. Ion channels set spike timing regularity of mammalian vestibular afferent neurons. J Neurophysiol 104:2034-51, 2010.
+- Liu XP, Wooltorton JR, Gaboyard-Niay S, Yang FC, Lysakowski A, and Eatock RA. Sodium channel diversity in the vestibular ganglion: NaV1.5, NaV1.8, and tetrodotoxin-sensitive currents. J Neurophysiol 115: 2536-2555, 2016.
+- Lysakowski A, Gaboyard-Niay S, Calin-Jageman I, Chatlani S, Price SD, and Eatock RA. Molecular microdomains in a sensory terminal, the vestibular calyx ending. J Neurosci 31: 10101-14, 2011.
+- Smith CE, and Goldberg JM. A stochastic afterhyperpolarization model of repetitive activity in vestibular afferents. Biol Cybern 54: 41-51, 1986.
+- Ventura CM, and Kalluri R. Enhanced activation of HCN channels reduces excitability and spike-timing regularity in maturing vestibular afferent neurons. J Neurosci 39: 2860-76, 2019.
