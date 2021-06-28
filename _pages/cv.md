@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download complete pdf here](http:/selinabaeza.github.io/files/Baeza-Loya_CV.pdf)s
+[Download complete pdf here](http:/selinabaeza.github.io/files/Baeza-Loya_CV.pdf)
 
 Education
 ======
