@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Selina Baeza Loya"
 title_separator          : "-"
-name                     : &name "Selina"
+name                     : &name "Selina Baeza Loya"
 description              : &description "Neurobiologist in progress"
 url                      : https://selinabaeza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Selina"
-  avatar           : "Picture1.jpg"
+  avatar           : "me_2021.jpg"
   bio              : "Neurobiologist in progress
                       <br/> selinabl at uchicago.edu"
   location         : "Hyde Park, Chicago"
