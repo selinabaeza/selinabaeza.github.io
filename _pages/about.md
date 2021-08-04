@@ -33,4 +33,4 @@ _a fancy, stylized inner ear organ_
 
 **_On the job hunt (dun dun dunnnn)_**
 
-I am now a crotchety old 6th year graduate student, and am looking to graduate in the spring of 2022! As such, I am on the look for postdoctoral research positions. If your lab studies vestibular circuits and will have positions starting next summer, please send me an email. 
+I am now a crotchety old 6th year graduate student, and am looking to graduate in the spring of 2022! As such, I am on the look out for postdoctoral research positions. If your lab studies vestibular circuits and will have positions starting next summer, please send me an email. 
