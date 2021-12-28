@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-08-SpikeTimingReview
 excerpt: 'I review key ionic currents studied in vitro and demonstrate how they may enable sensory encoding strategies demonstrated in vivo.'
 date: August 2021
-venue: 'submitted'
+venue: 'J Neurophysio NeuroForum in revision'
 paperurl: 'http://selinabaeza.github.io/files/Baeza-Loya_2021.pdf'
 citation: 'Baeza Loya S. (2021) Spike timing regularity in vestibular afferent neurons: How ionic currents influence sensory encoding mechanisms [Online]. arXiv:210800905 [q-bio] , 2021 http://arxiv.org/abs/2108.00905.'
 ---
