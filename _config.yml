@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Selina Baeza Loya"
+title                    : "Selina Baeza-Loya"
 title_separator          : "-"
-name                     : &name "Selina Baeza Loya"
+name                     : &name "Selina Baeza-Loya"
 description              : &description "Neurobiologist in progress"
 url                      : https://selinabaeza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
