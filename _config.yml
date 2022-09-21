@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Selina Baeza-Loya"
+title                    : "Dr. Selina Baeza-Loya"
 title_separator          : "-"
 name                     : &name "Selina Baeza-Loya"
 description              : &description "Neurobiologist in progress"
@@ -83,8 +83,8 @@ author:
   name             : "Selina"
   avatar           : "me_2.1_2021.jpg"
   bio              : "Neurobiologist in progress
-                      <br/> selinabl at uchicago.edu"
-  location         : "Hyde Park, Chicago"
+                      <br/> selinabl at uw.edu"
+  location         : "Seattle, WA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/selina.baeza%20loya.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=M4Hyr8sAAAAJ&hl=en"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@selinita_baeza"
+  twitter          : "@dra_selinita"
   vine             :
   weibo            :
   xing             :
