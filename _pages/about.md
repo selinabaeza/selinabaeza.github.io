@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-***Hi and welcome***
+***Hi**
 
-I'm a PhD Candidate in the Committee on Neurobiology at the University of Chicago. I work in the laboratory of [Dr. Ruth Anne Eatock](https://voices.uchicago.edu/eatocklab/). Previously, I completed my BA in Cognitive Sciences and Spanish, with a minor in Neuroscience, at Rice University (go Owls). My primary scientific interest is the neurobiology of sensory transduction and encoding: 
+I'm a postdoctoral scholar in the [Raible Lab](https://faculty.washington.edu/draible/) under the tutelage of Dr. Dave Raible in Department of Otolaryngology at the University of Washington in Seattle. Previously, I completed my PhD at the University of Chicago in the laboratory of [Dr. Ruth Anne Eatock](https://voices.uchicago.edu/eatocklab/), and my BA in Cognitive Sciences and Spanish with a minor in Neuroscience at Rice University (go Owls). My primary scientific interest is the neurobiology of sensory transduction and encoding: 
 * how do the properties of sensory receptors mold our perceptual experiences? 
 * what are the key biophysical properties that they need to do so?
 * how is sensory information encoded? 
