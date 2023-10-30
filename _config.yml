@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Selina Baeza-Loya"
 title_separator          : "-"
 name                     : &name "Selina Baeza-Loya"
-description              : &description "Neurobiologist in progress"
+description              : &description "Neurobiologist"
 url                      : https://selinabaeza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "selinabaeza/selinabaeza.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Selina"
   avatar           : "me_2.1_2021.jpg"
-  bio              : "Neurobiologist in progress
+  bio              : "Neurobiologist
                       <br/> selinabl at uw.edu"
   location         : "Seattle, WA"
   employer         :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@dra_selinita"
+  twitter          : "@dr_selinita"
   vine             :
   weibo            :
   xing             :
